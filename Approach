@@ -1,1 +1,9 @@
 For analytics purposes, this section describes the process and the types of analysis utilized to obtain the data, prepare and clean it, and to test the outcomes.
+Some questions that we ask ourself when selecting a data source:
+What data points are necessary to inform your analysis?
+Do I already have access to this data, or must I find a dataset from another source?
+Where are reliable and verifiable sources of this data?
+How often is the relevant data collected and updated?
+How is the data licensed for use, and is there a cost?
+Is the data in a format that I can use, or convert to use, with my tools?
+
